@@ -1,0 +1,53 @@
+# Quartus generated files
+*.rpt
+*.bak
+*.qws
+*.sof
+*.pof
+db/
+incremental_db/
+output_files/
+simulation/
+*.qarlog
+*.qws
+*.summary
+
+# ModelSim generated files
+work/
+*.wlf
+transcript
+*.mti
+*.mpf
+*.vo
+*.vho
+
+# Project specific
+*.qpf
+*.qsf
+*.qdf
+*.qws
+*.bak
+*.bsf
+
+# Generated folders
+db/
+incremental_db/
+simulation/
+timing/
+greybox_tmp/
+output_files/
+
+# ModelSim generated files
+wlf*
+*.wlf
+*.vstf
+*.ini
+*.mpf
+transcript
+work/
+_info
+_vmake
+
+# System files
+.DS_Store
+Thumbs.db
